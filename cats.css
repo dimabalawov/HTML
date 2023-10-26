@@ -1,0 +1,9 @@
+.box{
+    display: flex;
+  }
+  .box-block{
+    width: 64px;
+    height: 64px;
+    border: 1px solid;
+    border-color: lightgrey;
+  }
